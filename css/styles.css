@@ -36,6 +36,7 @@ p {
 hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
+  font-size: 4rem;
   width: 4%;
   margin: 100px auto;
 }
@@ -82,19 +83,45 @@ hr {
   bottom: 15%;
   left: 15%;
 }
+.resume-img  {
+max-width: 75px;
+max-height: 75px;
+margin-right: 20px;
+float:left;
+}
 
+.my-resume {
+  width: 50%;
+
+  text-align: left;
+  margin: 0 auto;
+}
+
+.resume-row {
+}
 .skill-row
 {
   width: 50%;
   position: relative;
   margin: 50px auto;
-  text-align: left;
 }
 
 .intro
 {
   width: 30%;
   margin: auto;
+}
+
+.in-text-link
+{
+  color: #11999E;
+  text-decoration: none;
+
+}
+.in-text-link:hover
+{
+  color: #EAF6F6;
+  text-decoration: underline;
 }
 .footer-link
 {
