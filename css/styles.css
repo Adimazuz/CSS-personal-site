@@ -52,6 +52,7 @@ hr {
 }
 .middle-container
 {
+
 }
 .bottom-container {
   margin-top: 20px;
@@ -87,6 +88,7 @@ hr {
 max-width: 75px;
 max-height: 75px;
 margin-right: 20px;
+margin-top: 40px;
 float:left;
 }
 
