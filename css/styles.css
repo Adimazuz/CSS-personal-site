@@ -41,7 +41,9 @@ hr {
   margin: 60px auto;
 }
 
-
+tr {
+  margin: 0px;
+}
 /* #################### Classes ######################### */
 
 .top-container
